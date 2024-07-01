@@ -1,0 +1,4 @@
+boto3==1.28.20
+sagemaker==2.175.0
+# langchain
+# langchain_community
